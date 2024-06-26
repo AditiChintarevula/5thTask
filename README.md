@@ -1,4 +1,4 @@
-### Basic Calculator Application
+##### Basic Calculator Application
 ## Description
 This project is a basic calculator application that can perform simple arithmetic operations like addition, subtraction, multiplication, and division. It is built using React, and styled with CSS for a user-friendly interface.
 
